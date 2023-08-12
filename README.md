@@ -2,7 +2,7 @@
 <p align='justify'>Instagram merupakan platform terbesar didunia setelah facebook. Dalam penggunaannya, instagram memiliki fitur kegunaan dan fungsi masing-masing. Hal ini yang menjadikan informasi yang terkandung disetiap aktivitas instagram tercatat dan membentuk sebuah data yang sangat besar. Pada kesempatan ini, kaggle.com telah memperbarui datanya yang berjudul "instagram dataset". Oleh karena itu penulis dari akun github ini akan menganalisa dan menggali insight yang terkandung didalam data tersebut.</p>
 
 ## Preparation Data
-<p align='justify'>Pada tahapan ini yaitu mempersiapkan data yang ingin dianalisis, data tersebut adalah comments.csv, follows.csv, likes.csv, photo_tags.csv, photo.csv, tags.csv, users.csv. Load data tersebut menjadi dataset yang akan dibersihkan.</p>
+<p align='justify'>Pada tahapan ini yaitu mempersiapkan data yang ingin dianalisis, data tersebut adalah comments.csv, follows.csv, likes.csv, photo_tags.csv, photo.csv, tags.csv, users.csv. Load data tersebut yang hasilnya akan seperti gambar dibawah ini.</p>
 
 #### Comments
 ![pict-comments](https://github.com/kartikajls/InstagramAnalyze/assets/98092595/46735ce9-96ce-4758-a484-2ec8175f21ed)
