@@ -1,1 +1,2 @@
-# InstagramAnalyze
+# Instagram dataset Analyze
+<p align='justify'>Instagram merupakan platform terbesar didunia setelah facebook. Dalam penggunaannya, instagram memiliki fitur kegunaan dan fungsi masing-masing. Hal ini yang menjadikan informasi yang terkandung disetiap aktivitas instagram tercatat dan membentuk sebuah data yang sangat besar. Pada kesempatan ini, kaggle.com telah memperbarui datanya yang berjudul "instagram dataset". Oleh karena itu penulis dari akun github ini akan menganalisa dan menggali insight yang terkandung didalam data tersebut .</p>
