@@ -30,3 +30,17 @@
 </table>
 
 ## Exploratory Data
+### Status Akun yang Verified
+<p align='justify'>Status akun yang sudah teridentifikasi Verified sebesar 8 dan yang belum sebesar 92. Hal ini menjadi pertanyaan besar dikarenakan menurut data jumlah akun yang berstatus verified memposting lebih sedikit ketimbang akun yang belum verified. Pada jumlah postingan akun yang memiliki status verified sebesar 1293 postingan sedangkan akun yang tidak memiliki status verified sebesar 2400 postingan. Berdasarkan akun Eveline95 telah memposting sebesar 2400 postingan dan belum statusnya belum verified.</p>
+<table>
+  <tr>
+      <td>
+      <img src="https://github.com/kartikajls/InstagramAnalyze/assets/98092595/0122aeeb-ec97-42b3-82b7-a5a6c5648d7e"></img>
+      </td>
+      <td valign="top">
+      <img src="https://github.com/kartikajls/InstagramAnalyze/assets/98092595/85e58cd3-833d-4b72-b441-66128849aec0"></img>
+      </td>
+  </tr>
+</table>
+<p align='justify'>Kemudian untuk akun yang berstatus private sebesar 50 akun dan tidak sebesar 50 akun.</p>
+<img src="https://github.com/kartikajls/InstagramAnalyze/assets/98092595/0e137580-9472-4a53-81a4-8b9e1f792ce2"></img>
