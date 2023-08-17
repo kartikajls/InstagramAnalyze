@@ -44,3 +44,9 @@
 </table>
 <p align='justify'>Kemudian untuk akun yang berstatus private sebesar 50 akun dan tidak sebesar 50 akun.</p>
 <img src="https://github.com/kartikajls/InstagramAnalyze/assets/98092595/0e137580-9472-4a53-81a4-8b9e1f792ce2"></img>
+
+## Kesimpulan
+<p align='justify'>Terdapat akun yang sudah berstatus verified sebesar 9 akun dan memiliki jumlah postingan sebesar 1293.</p>
+
+## Kekurangan
+<p align='justify'>Data instagram yang disajikan oleh kaggle.com masih belum lengkap sehingga insight yang diperoleh belum cukup untuk bisa menggambarkan keadaan database. Oleh karena itu penulis hanya bisa menyajikan sedikit informasi atau insight yang terkandung dalam database tersebut.</p>
